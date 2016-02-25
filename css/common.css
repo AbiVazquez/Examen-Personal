@@ -1,0 +1,35 @@
+.bg-black{
+	background-color: black;
+	opacity: 0.9;
+}
+.size{
+	font-size: 23px;
+}
+.gris{
+	color: #5A5757;
+}
+/* Colores de texto */
+.pink{
+	color: #ED1772;
+}
+.grisf{
+	color: #5A5757;
+	font-weight: bold;
+}
+/* Posiciones */
+.pt-10{
+	padding-top: 10%;
+}
+.pt-15p{
+	padding-top: 15px;
+}
+.pb-15p{
+	padding-bottom: 15px;
+}
+ .pl-10{
+ 	padding-left: 10%;
+ }
+/* Tamaños */
+.small{
+	font-size: small;
+}

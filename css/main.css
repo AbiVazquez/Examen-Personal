@@ -1,0 +1,120 @@
+*{
+	font-family: Open Sans;
+	
+}
+.negro{
+	background-color: black;
+	height: 80px;
+}
+.font{
+	font-weight: bold;
+	font-size: 50px;
+}
+.font2{
+	font-weight: lighter;
+	font-size: 50px;
+}
+.gentleman{
+	font-size: 30px;
+}
+.lista{
+	display: inline;
+	padding: 10px;
+}
+.none{
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color:  #ED1772;
+}
+.boton{
+	background-color: gray;
+	border-radius: 20px;
+	padding: 13px 25px;
+	text-decoration: none;
+	color: white;
+	font-size: small;
+	position: relative;
+	top: 80px;
+	
+}
+/* SECCION 2 */
+hr.style1 {
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+.whidth{
+	width: 100%; 
+}
+.lista2{
+	font-size: 17px;
+	display: inline;
+	color: #8A8688;
+	list-style: none;
+	padding: 5px;
+	font-family: serif;
+}
+.boton2{
+	background-color: gray;
+	border-radius: 30px;
+	padding: 13px 45px;
+	text-decoration: none;
+	color: white;
+	position: relative;
+	left: 42%;	
+}
+/* Secccion tres */
+.twitter{
+	width: 90%;
+	margin-left: 30px;
+}
+.boton3{
+	background-color: gray;
+	border-radius: 4px;
+	padding: 5px 15px;
+	text-decoration: none;
+	color: white;
+	font-size: small;
+	position: relative;
+	left: 60px
+}
+/* Footer */
+.font3{
+	font-weight: bold;
+	font-size: 30px;
+}
+.font4{
+	font-weight: lighter;
+	font-size: 25px;
+}
+.circulo{
+	border: 1px dashed #555252;
+	border-radius: 20px;
+	display: inline-block;
+	padding: 10px;
+}
+.style2 {
+	border: 1px solid #555252;
+}
+.lista3{
+	list-style: none;
+	color: white;
+}
+.email{
+	background-color: #7B7777;
+	border: solid 1px  black;
+	border-radius: 5px; 
+	padding: 15px 20px;
+	text-align: left;
+}
+.boton4{
+	background-color: #ED1772;
+	border-radius: 4px;
+	padding: 3px 10px;
+	text-decoration: none;
+	color: white;
+	font-size: small;
+	position: relative;
+	left: 10px
+}
